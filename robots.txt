@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://amenguwoh.thefzl.com/sitemap.xml
